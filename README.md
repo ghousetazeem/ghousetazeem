@@ -1,6 +1,7 @@
-# 💫 About Me:  
+![gif](https://user-images.githubusercontent.com/74200389/226644869-db003a6d-34e1-4ee9-8310-2625bcad428e.gif)
 
-### <div align="center">I'm Ghouse, a Web Developer 👨‍💻 who is passionate towards tech🚀</div>  
+<h1 align="center">Hi 👋, I'm Mohd Ghouse Tazeem</h1>
+<h3 align="center">A passionate Web developer</h3>
   
 
 
