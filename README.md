@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Ghouse Tazeem</h1>
 <h3 align="center">A passionate Web developer</h3>
   
-
+<div align="center">
 
 🔭 I’m currently working on Lerntek<br><br>🌱 I’m currently learning React.js and Node.js<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I am very proactive<br><br>
 
@@ -29,3 +29,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ghousetazeem&icon=0&color=0)](https://visitcount.itsvg.in)
+  
+</div>
