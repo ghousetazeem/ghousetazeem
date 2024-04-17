@@ -1,8 +1,5 @@
-![gif](https://user-images.githubusercontent.com/74200389/226644869-db003a6d-34e1-4ee9-8310-2625bcad428e.gif)
+![Github LinkedIn Twitter banners](https://github.com/ghousetazeem/ghousetazeem/assets/74200389/2c1d74d4-7522-446f-b3ca-28e112804c86)
 
-<h1 align="center">Hi 👋, I'm Mohd Ghouse Tazeem</h1>
-<h3 align="center">A passionate Web developer</h3>
-  
 <div align="center">
 
 🔭 I’m currently working on Lerntek<br><br>🌱 I’m currently learning React.js and Node.js<br><br>❓ Ask me about anything related to MERN stack and related technologies<br><br>⚡ Fun fact: I am very proactive<br><br>
